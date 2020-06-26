@@ -1,3 +1,7 @@
+/* Copyright (C) NBS System - All Rights Reserved
+ * Licensed under GNU LGPL v3.0 – See the LICENSE notice for details
+ */
+
 #include "sp_list.h"
 #include <stdio.h>
 #include <stdlib.h>

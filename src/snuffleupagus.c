@@ -1,3 +1,7 @@
+/* Copyright (C) NBS System - All Rights Reserved
+ * Licensed under GNU LGPL v3.0 – See the LICENSE notice for details
+ */
+
 #ifdef PHP_WIN32
 #include "win32/glob.h"
 #else

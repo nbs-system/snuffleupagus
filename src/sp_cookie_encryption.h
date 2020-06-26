@@ -1,3 +1,6 @@
+/* Copyright (C) NBS System - All Rights Reserved
+ * Licensed under GNU LGPL v3.0 – See the LICENSE notice for details
+ */
 
 #ifndef __SP_COOKIE_ENCRYPTION
 #define __SP_COOKIE_ENCRYPTION

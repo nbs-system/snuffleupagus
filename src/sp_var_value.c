@@ -1,3 +1,7 @@
+/* Copyright (C) NBS System - All Rights Reserved
+ * Licensed under GNU LGPL v3.0 – See the LICENSE notice for details
+ */
+
 #include "php_snuffleupagus.h"
 
 static zval *get_param_var(zend_execute_data *ed, const char *var_name) {

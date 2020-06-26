@@ -1,3 +1,7 @@
+/* Copyright (C) NBS System - All Rights Reserved
+ * Licensed under GNU LGPL v3.0 – See the LICENSE notice for details
+ */
+
 #include "php_snuffleupagus.h"
 
 static sp_list_node *parse_str_tokens(const char *str,

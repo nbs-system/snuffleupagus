@@ -1,3 +1,7 @@
+/* Copyright (C) NBS System - All Rights Reserved
+ * Licensed under GNU LGPL v3.0 – See the LICENSE notice for details
+ */
+
 /* Since TweetNacl doesn't come with a `randombytes` implementation,
 we're using the one from PHP.*/
 #include "php_snuffleupagus.h"

@@ -1,3 +1,7 @@
+/* Copyright (C) NBS System - All Rights Reserved
+ * Licensed under GNU LGPL v3.0 – See the LICENSE notice for details
+ */
+
 #ifndef SP_VAR_PARSER_H
 #define SP_VAR_PARSER_H
 #include "php_snuffleupagus.h"
