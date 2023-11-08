@@ -1,3 +1,5 @@
+# THIS REPO HAS BEEN ARCHIVED, PLEASE VISIT https://github.com/jvoisin/snuffleupagus
+
 <h1 align="center">
   <br>
   <a href="https://snuffleupagus.readthedocs.io/">
